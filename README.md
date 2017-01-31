@@ -1,2 +1,5 @@
-# reverseString
-文字列を逆に並べる
+##考え方
+
+split()で文字列を分割//["h", "e", "l", "l", "o"]
+reverse()で逆に並べる。//["o", "l", "l", "e", "h"]
+join("")で一緒にする。//olleh
